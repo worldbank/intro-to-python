@@ -7,6 +7,7 @@ This workshop was given at the World Bank's Reproducible Research Workshop in 20
  
 ## How to Run the Notebooks
 The notebooks can be downloaded and run on your local machine using your Jupyter Notebooks installation (eg. Anaconda). 
+You can download the repository by either cloning it or downloading it.
 
 ## Slides and resources
 [Slide deck](https://drive.google.com/file/d/1YpYz_kc3kGze3EQt9IK8WPLu-nZSqhft/view?usp=sharing)
