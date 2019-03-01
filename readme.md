@@ -11,5 +11,6 @@ You can download the repository by either cloning it or downloading it.
 
 ## Slides and resources
 Please download the slides from the link below. The slides can be used as cheatsheet for Python syntax.
+
 [Slide deck](https://drive.google.com/file/d/1YpYz_kc3kGze3EQt9IK8WPLu-nZSqhft/view?usp=sharing)
  
